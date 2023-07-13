@@ -50,5 +50,5 @@ connectDB();
 // 
 const PORT=process.env.PORT||8080
 app.listen(PORT,()=>{
-    console.log(`port is running in ${process.env.DEV_MODE} mode  on port 8080`);
+    console.log(`port is running in ${process.env.DEV_MODE} mode  on port 8080 thank`);
 })
